@@ -6,7 +6,7 @@
 
 **在线查看**
 
-[现代汉语通用字表（简体） - See Yue](https://docs.qq.com/s/HsIXd3Eu47gZP0g4bz_XdG) 
+[现代汉语通用字表（简体） - See Yue【腾讯文档】](https://docs.qq.com/s/HsIXd3Eu47gZP0g4bz_XdG) 
 
 **参考 & 感谢**
 
