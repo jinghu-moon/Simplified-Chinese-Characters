@@ -1,6 +1,12 @@
 #  现代汉语字表
 
+**字表**
+
 包含 **3500** 常用字表和 **7000** 通用字表。可以搭配 [ecomfe/fontmin-app: fontmin as an OS X, Linux and Windows app (github.com)](https://github.com/ecomfe/fontmin-app) 使用，来减小字体大小。
+
+**在线查看**
+
+[现代汉语通用字表（简体） - See Yue](https://docs.qq.com/s/HsIXd3Eu47gZP0g4bz_XdG) 
 
 **参考**
 
